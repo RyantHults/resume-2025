@@ -1,4 +1,8 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Ryan Hults | Senior Software Engineer'
 theme = 'hugo-devresume'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
