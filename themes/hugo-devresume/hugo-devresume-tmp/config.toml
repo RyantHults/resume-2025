@@ -1,8 +1,8 @@
 # Page settings
 
-baseURL = "http://ryanthults.com/"
+baseURL = "http://www.ryanthults.com/"
 languageCode = "en"
-title = ""
+title = "Ryan Hults | Senior Software Engineer"
 theme = "hugo-devresume"
 googleAnalytics = "UA-XXXXXXX-Y"
 
