@@ -155,7 +155,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.interests.list]]
         name = "Climbing"
         [[params.interests.list]]
-        name = "3d Modeling and Printing"
+        name = "3d CAD and Printing"
         [[params.interests.list]]
         name = "Progressive Metal"
         [[params.interests.list]]
@@ -188,7 +188,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "Monetate"
         details = "As a technical leader, I drove large-scale infrastructure improvements and cost-efficient optimizations while fostering cross-team collaboration to enhance system reliability and operational processes. My work involved modernizing legacy systems, mentoring engineers, and implementing best practices to elevate both technical output and organizational efficiency."
         [[params.experience.list.items]]
-        details = "Led the planning and implementation of a major codebase refactor, reduced compute costs by over 20% and increasing client revenue per session by 30%. Managed team agile processes throughout the project."
+        details = "Led the planning and implementation of a major refactor of our AI product offering, reduced compute costs by over 20% and increasing client revenue per session by 30%. Managed team agile processes throughout the project."
         [[params.experience.list.items]]
         details = "Led the planning and execution of migrating critical components of the company’s codebase from Python 2 to Python 3, ensuring compatibility and minimal disruption."
         [[params.experience.list.items]]
