@@ -63,9 +63,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list]]
         title = "Technical"
         [[params.skills.list.items]]
-        details = "JavaScript/React/Angular/Vue"
-        [[params.skills.list.items]]
         details = "Python/PHP"
+        [[params.skills.list.items]]
+        details = "JavaScript/React/Angular/Vue"
         [[params.skills.list.items]]
         details = "AWS/ECS/EC2"
         [[params.skills.list.items]]
