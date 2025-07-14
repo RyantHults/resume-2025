@@ -184,7 +184,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.experience.list]]
         title = "Senior Software Engineer"
-        dates = "2021 - Present"
+        dates = "2021 - 2025"
         company = "Monetate"
         details = "As a technical leader, I drove large-scale infrastructure improvements and cost-efficient optimizations while fostering cross-team collaboration to enhance system reliability and operational processes. My work involved modernizing legacy systems, mentoring engineers, and implementing best practices to elevate both technical output and organizational efficiency."
         [[params.experience.list.items]]
