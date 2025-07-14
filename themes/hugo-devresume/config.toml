@@ -69,7 +69,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "AWS/ECS/EC2"
         [[params.skills.list.items]]
-        details = "Django"
+        details = "Django/SQLAlchemy"
         [[params.skills.list.items]]
         details = "PostgreSQL/MySQL"
         [[params.skills.list.items]]
